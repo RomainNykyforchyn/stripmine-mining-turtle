@@ -14,7 +14,7 @@
 
 ## Usage <a name="usage"></a>
 
-This mining-turtle script can be used inside the game "Minecraft" with the "ComputerCraft" mod. If the script is run, it creates and efficient stripmine system.
+This mining-turtle script can be used inside the game "Minecraft" with the "ComputerCraft" mod. If the script is run, it creates and efficient strip mine system.
 
 ## Contact <a name="contact"></a>
 
