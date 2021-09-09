@@ -20,5 +20,5 @@ This mining-turtle script can be used inside the game "Minecraft" with the "Comp
 
 Romain Nykyforchyn - romainnyky@gmail.com
 
-https://github.com/RomainNykyforchyn/jsf-rgb-picker/
+https://github.com/RomainNykyforchyn/stripmine-mining-turtle/
 
